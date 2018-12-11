@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.plsgd.Kudu",
+    "sha256_cert_fingerprints": [ "D0:F2:E6:FA:55:21:15:21:A8:8F:ED:FC:8B:DA:AD:F1:FA:3D:6C:D4:F5:62:2C:BC:05:BC:06:E4:F1:C5:91:27" ]
+  }
+}]
